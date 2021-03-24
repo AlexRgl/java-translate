@@ -27,10 +27,30 @@ public class sus {
         case "domingo":
             System.out.println("Sunday");
             break;
+        case "monday":
+            System.out.println("segunda");
+            break;
+        case "tuesday":
+            System.out.println("terca");
+            break;
+        case "wednesday":
+            System.out.println("quarta");
+            break;
+        case "thursday":
+            System.out.println("quinta");
+            break;
+        case "friday":
+            System.out.println("sexta");
+            break;
+        case "saturday":
+            System.out.println("sabado");
+            break;
+        case "sunday":
+            System.out.println("domingo");
+            break;
         default:
             System.out.println("Não tem nada disso");
             break;
         }
     }
-
 }
